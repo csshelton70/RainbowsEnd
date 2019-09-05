@@ -1,0 +1,2 @@
+void initrandom();
+int random();
